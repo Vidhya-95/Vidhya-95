@@ -44,13 +44,5 @@
 - **LinkedIn:** `www.linkedin.com/in/vidhya-shinde`
 - **Email:** `shinde.vidhya06@gmail.com`
 
----
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=<your-username>&show_icons=true&hide_border=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact&hide_border=true" />
-</p>
-<p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=<your-username>&hide_border=true" />
-</p>
 
 <sub>PS: If you read this far, you’re definitely my kind of reviewer. ⭐ a repo, will ya?</sub>
