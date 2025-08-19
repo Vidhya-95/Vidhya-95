@@ -22,9 +22,10 @@
 </p>
 
 ### What I’m doing now
-- Rebuilding momentum with bite‑sized cloud projects.
+- Brushing up on **GCP & Terraform** (because infra doesn’t deploy itself)
 - Polishing **Terraform** workflows and **GCP logging/monitoring**.
 - Practicing **Git** beyond “commit and hope for the best”.
+- Rebuilding momentum with bite‑sized cloud projects.
 
 ### Projects (small but mighty)
 - **☁️ GCP Logging ETL Pipeline** — Logging sink → Pub/Sub → Cloud Functions (Python) → BigQuery pipeline.  
@@ -34,11 +35,6 @@
 - 4+ years in software dev & cloud automation.
 - Automated infra & monitoring workflows in previous roles.
 - Recently refreshed skills across **GCP + Terraform + Python**.
-
-### What I’m Doing Now
-- Brushing up on **GCP & Terraform** (because infra doesn’t deploy itself)
-- Learning **Git** properly — not just “git add, git commit, git push, hope for the best”
-- Building small but mighty cloud projects
 
 ### Connect with me
 - **LinkedIn:** `www.linkedin.com/in/vidhya-shinde`
